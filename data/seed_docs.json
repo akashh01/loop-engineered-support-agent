@@ -1,0 +1,22 @@
+[
+  {
+    "id": "faq-001",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days and is available at checkout for an additional fee."
+  },
+  {
+    "id": "faq-002",
+    "question": "What is your return policy?",
+    "answer": "Items can be returned within 30 days of delivery for a full refund, provided they are unused and in original packaging. Refunds are processed within 5-10 business days of receiving the return."
+  },
+  {
+    "id": "faq-003",
+    "question": "How do I reset my password?",
+    "answer": "Go to the login page and click 'Forgot Password'. Enter your account email and you'll receive a reset link within a few minutes. The link expires after 24 hours."
+  },
+  {
+    "id": "faq-004",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 40 countries. International shipping takes 10-15 business days and customs fees, if any, are the responsibility of the customer."
+  }
+]
