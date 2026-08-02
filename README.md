@@ -1,6 +1,5 @@
-This is a demo project used as an example for the blog : blog link
-
 # Loop Engineering Demo: Self-Learning Customer Support Agent
+This is a demo project used as an example for the blog : blog link
 
 A working before/after example where discovery is genuinely autonomous:
 a customer question arriving is the trigger, nobody hands the system a
