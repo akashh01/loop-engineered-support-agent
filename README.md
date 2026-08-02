@@ -1,5 +1,5 @@
 # Loop Engineering Demo: Self-Learning Customer Support Agent
-This is a demo project used as an example for the blog : blog link
+This is a demo project used as an example for the blog : https://medium.com/@akashh0101/stop-prompting-start-looping-loop-engineering-explained-b6c5acf612fc?sharedUserId=akashh0101
 
 A working before/after example where discovery is genuinely autonomous:
 a customer question arriving is the trigger, nobody hands the system a
